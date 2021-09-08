@@ -1,6 +1,6 @@
-# Welcome to GEE Training 
+# Welcome to Google Earth Engine Training 
 
-[![GEE](https://img.shields.io/static/v1?label=Google&message=Earth Engine&color=blue)](https://code.earthengine.google.com/)
+![GEE](https://img.shields.io/static/v1?label=Google&message=Earth Engine&color=blue)
 
 
 
