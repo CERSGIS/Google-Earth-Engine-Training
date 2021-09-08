@@ -1,6 +1,6 @@
 # Welcome to Google Earth Engine Training 
 
-![GEE](https://img.shields.io/static/v1?label=Google&message=Earth Engine&color=blue)
+![GEE](https://img.shields.io/static/v1?label=Google&message=Earth%20Engine&color=blue)
 
 
 
