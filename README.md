@@ -42,8 +42,8 @@ Tips to ensure smooth sign-up process:
 
 ### [Workshop  - Google Earth Engine Training ]()
 
-1. [Day 1 - Introduction to Remote Sensing]()
-2. [Day 2 - Data exploration using GEE]()
-3. [Day 3 - Remote Sensing Applications in GEE]()
-4. [Day 4 - Remote Sensing Applications in GEE]()
-5. [Day 5 - Hands-on Application in GEE]()
+1. [Day 1 - Introduction to Remote Sensing](https://github.com/ernest19/SNV/blob/main/training/modules/day1.md)
+2. [Day 2 - Data exploration using GEE](https://github.com/ernest19/SNV/blob/main/training/modules/day2.md)
+3. [Day 3 - Remote Sensing Applications in GEE](https://github.com/ernest19/SNV/blob/main/training/modules/day3.md)
+4. [Day 4 - Remote Sensing Applications in GEE](https://github.com/ernest19/SNV/blob/main/training/modules/day4.md)
+5. [Day 5 - Hands-on Application in GEE](https://github.com/ernest19/SNV/blob/main/training/modules/day5.md)
