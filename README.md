@@ -45,11 +45,12 @@ Tips to ensure smooth sign-up process:
 
 #### Day 1  Introduction to Google Earth Engine (GEE)
 ##### [Module 1 - Basics to Earth Engine  and Github](https://github.com/ernest19/SNV/blob/main/training/modules/module1.md)
-- Introduction to Remote Sensing
-- Introduction to GEE code editor
+- Overview  of GEE
 - Introduction to JavaScript
 - GEE objects, strings, lists ,Arrays
 - Interaction  to GIThub   interface 
+- Hands-on exercises
+
 
 
 #### Day 2 Data exploration using GEE
@@ -60,6 +61,7 @@ Tips to ensure smooth sign-up process:
 - Asset management (importing and exporting data)
 - Hands-on exercises
 
+
 ##### [Module 3 - Exploring Spatial Indices and GEE Products](https://github.com/ernest19/SNV/blob/main/training/modules/module3.md)
 - Exploring spectral indices (NDVI,NDBI,LSWI,TC-G,TC-B,TC-W)
 - Forest/Deforestation monitoring with data exploration(Introduction to Global Forest Change datasets)
@@ -67,18 +69,8 @@ Tips to ensure smooth sign-up process:
 
 
 
-#### Day 3  Remote Sensing Applications in GEE, PART I
-##### [Module 4 -  Time Series](https://github.com/ernest19/SNV/blob/main/training/modules/module4.md)
-- Introduction to time series analysis
-- Time-Series Charts
-- Charting and creating custom UIs
-- Publishing an App in GEE
-- Hands-on exercises
-
-
-#### Day 4 Remote Sensing Applications in GEE, PART II
-
-##### [Module 5 - Machine Learning Classification Algorithms](https://github.com/ernest19/SNV/blob/main/training/modules/module5.md)
+#### Day 3 Machine Learning and Image Classification
+##### [Module 4 - Machine Learning Classification Algorithms](https://github.com/ernest19/SNV/blob/main/training/modules/module4.md)
 - Introduction to Machine Learning  and Classification
 - Introduction to change detection
 - Supervised classification and sampling
@@ -89,11 +81,22 @@ Tips to ensure smooth sign-up process:
 
 
 
+#### Day 4 Time Series and Customisation in GEE
 
-#### Day 5  Hands - on Application in GEE
-##### [Module 6 -Land Use Land Cover Change Analysis ](https://github.com/ernest19/SNV/blob/main/training/modules/module6.md)
+
+##### [Module 5 - Time Series](https://github.com/ernest19/SNV/blob/main/training/modules/module5.md)
+- Introduction to time series analysis
+- Time-Series Charts
+- Charting and creating custom UIs
+- Publishing an App in GEE
+- Hands-on exercises
+
+
+#### Day 5 Land Use Land Cover Classification
+##### [Module 6 - Land Use Land Cover Change Analysis ](https://github.com/ernest19/SNV/blob/main/training/modules/module6.md)
 - Land cover and land use cover change analysis
 - Create 2018 and 2020 land cover maps of the emission reduction programme area
-- Map generation 
+- Map generation  in QGIS
 - Wrap up
+
 
