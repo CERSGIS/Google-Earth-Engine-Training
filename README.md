@@ -40,6 +40,18 @@ Tips to ensure smooth sign-up process:
 
 
 
+## Computer hardware and software
+> :pushpin:  Google Earth Engine runs from an internet browser. No specific software needs to be installed. For best performance the Chrome browser is recommended. Furthermore an internet connection is required, because all work is done online.
+
+
+
+## Prerequisites 
+- Fundamental understanding of basic remote sensing
+- Prior understanding of the basic concepts of programming is not required but may be helpful
+
+
+
+
 ### [Workshop  - Google Earth Engine Training ]()
 
 
@@ -48,7 +60,7 @@ Tips to ensure smooth sign-up process:
 - Overview  of GEE
 - Introduction to JavaScript
 - GEE objects, strings, lists ,Arrays
-- Interaction  to GIThub   interface 
+- Interaction  to GitHub   interface 
 - Hands-on exercises
 
 
