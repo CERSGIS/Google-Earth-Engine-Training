@@ -32,6 +32,10 @@ You can find the presentation in the below repository ;
 
 
 ## 3. Exercises 
+- Please complete the [Exercise 1(https://github.com/SERVIR-WA/GALUP/blob/master/training/1_lu/exercises/m1_exercise2.md#exercise-2).
+- Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-1-exercises.md&title=Module+1+exercises+%5Breplace+with+your+name%5D)
+
+
 
 
 
