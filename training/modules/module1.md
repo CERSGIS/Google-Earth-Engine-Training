@@ -26,8 +26,9 @@ In this module you'll get an overview of GEE Code Editor interface and you'll le
 
 You can find the presentation in the below repository ;
 
-1. [Overview of Gee](module1.md)
-2. [Introduction to GEE and Javascript](module2.md)
+1. [Remote Sensing Basics](https://github.com/ernest19/SNV/blob/main/training/presentations/day1/RS_Basics_Day_1.pptx)
+2. [GEE Overview](https://github.com/ernest19/SNV/blob/main/training/presentations/day1/GEE_Overview_Day_1.pptx)
+3. [GEE Basics](https://github.com/ernest19/SNV/blob/main/training/presentations/day1/GEE_Basics_Day_1.pptx)
 
 
 

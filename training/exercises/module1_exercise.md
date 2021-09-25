@@ -49,8 +49,3 @@ This exercise covers:
 </table>
 
 
-
-
-
-
-## 5. Result
