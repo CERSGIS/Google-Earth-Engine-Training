@@ -120,7 +120,8 @@ We appreciate  the partners below.<br>
 <table style="border: 0;">
   <tr> 
     <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/partners/FC.png" width="200"></td>
-    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/partners/FC.png" width="125"></td>
+    <td>   </td>
+    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/partners/SNV.png" width="125"></td>
   </tr>
 </table>
 
