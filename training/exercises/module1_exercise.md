@@ -19,10 +19,13 @@ This exercise covers:
 ### Write a script to achieve the following ;
 1. Using **ee.List.sequence** generate a list from 1 to 20 . And assign it to a variable  **mylist**  and print  the variable
 
-> :pushpin: Expected Output
-![Ques 1 ](img/dgrm/lucis_workflow.svg)
-https://github.com/ernest19/SNV/tree/main/img/exercise/mod1_q1.png
+> :pushpin: Expected Output <br>
 
+<table style="border: 0;">
+  <tr> 
+    <td vlign="center" style="border: 0;"><img src="img/exercise/mod1_q1.png" width="300"></td>
+  </tr>
+</table>
 
 
 ## 5. Result
