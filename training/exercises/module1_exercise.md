@@ -27,7 +27,7 @@ This exercise covers:
   </tr>
 </table>
 
-2. Write a function GEE to  add 3 to each number in the list **mylist**
+2. Write a function GEE to  add 3 to each number in the list **mylist**.Declare a variable and assign to the function._print results_
 
 > :pushpin: Expected Results <br>
 
@@ -38,7 +38,7 @@ This exercise covers:
 </table>
 
 
-3. Declare a variable with your Initials  and assign to a GEE dictionary  with the following details 
+3. Declare a variable with your Initials  and assign to a GEE dictionary  with the following details._print results_
 
 > :pushpin: Expected Results <br>
 
