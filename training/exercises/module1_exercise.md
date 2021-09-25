@@ -23,7 +23,7 @@ This exercise covers:
 
 <table style="border: 0;">
   <tr> 
-    <td vlign="center" style="border: 0;"><img src="img/exercise/mod1_q1.png" width="300"></td>
+    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod1_q1.png" width="300"></td>
   </tr>
 </table>
 
