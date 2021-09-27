@@ -52,7 +52,7 @@ Tips to ensure smooth sign-up process:
 
 
 
-### [Workshop  - Google Earth Engine Training ]()
+### [Workshop  - Google Earth Engine Training ](https://github.com/ernest19/SNV/blob/main/training/TIMETABLE_GEE_TRAINING_WORKSHOP.pdf)
 
 
 #### Day 1  Introduction to Google Earth Engine (GEE)
