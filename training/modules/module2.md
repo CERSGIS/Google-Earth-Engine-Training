@@ -1,4 +1,5 @@
-# Basics to Earth Engine  and Github
+# Data Exploration in Google Earth Engine 
+
 
 ## 1. What will you learn from this module?
 
