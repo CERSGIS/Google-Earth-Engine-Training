@@ -62,6 +62,5 @@ Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main
 
 ## 4. Additional Resources
 
-
 - [The Code Editor guide ](https://developers.google.com/earth-engine/tutorials/playground) to get familiar with the Code Editor environment.
 - For suggestions on JavaScript coding style, see the [Google JavaScript Style Guide](http://google.github.io/styleguide/javascriptguide.xml).

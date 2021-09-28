@@ -28,11 +28,11 @@ This exercise covers:
 2. Set up the mask function to mask clouds using the Sentinel-2 QA band, clouds and cirrus bands.
  **NB: Use the function below;**
 
-[Function to mask clouds using the Sentinel-2 QA band.](https://code.earthengine.google.com/2e3d32e58da17f5610d5256b64a280a3?noload=true)
+####[Function to mask clouds using the Sentinel-2 QA band.](https://code.earthengine.google.com/2e3d32e58da17f5610d5256b64a280a3?noload=true)
 
 3. Map the function over one year (2019) of data and take the median, bounded to the point of interest and visualize the image in the natural color composite ( B4, B3, B2)
 
-[Function to mask clouds using the Sentinel-2 QA band.](https://code.earthengine.google.com/d472d85f373ad7520803a47aea3f79ea?noload=true)
+####[Function to mask clouds using the Sentinel-2 QA band.](https://code.earthengine.google.com/d472d85f373ad7520803a47aea3f79ea?noload=true)
 
 4. Compute the indices
 
