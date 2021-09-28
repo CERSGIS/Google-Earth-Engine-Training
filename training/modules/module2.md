@@ -1,6 +1,5 @@
 # Data Exploration in Google Earth Engine 
 
-
 ## 1. What will you learn from this module?
 
 - Basic Concept in GEE
