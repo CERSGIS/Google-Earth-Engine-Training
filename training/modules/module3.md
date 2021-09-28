@@ -35,7 +35,7 @@ In this section, we will explore the Hansen Global Forest Change dataset in Goog
 You can find the presentation in the below repository ;
 
 
-1. [Global Forest Change](https://github.com/ernest19/SNV/blob/main/training/presentations/day2/Global_Forest_Change_Day_2.pptx)
+1. [Global Forest Change](https://github.com/ernest19/SNV/blob/main/training/presentations/day2/Global_Forest_Change.pptx)
 2. [Spectral Indices](https://github.com/ernest19/SNV/blob/main/training/presentations/day2/Spectral_Indices_Day_2.pptx)
 
 
