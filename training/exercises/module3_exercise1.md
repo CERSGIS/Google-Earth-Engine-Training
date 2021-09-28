@@ -32,16 +32,16 @@ This exercise covers:
 
 3. Map the function over one year (2019) of data and take the median, bounded to the point of interest and visualize the image in the natural color composite ( B4, B3, B2)
 
-    - [ Map the function over a year's  data  taken the median,](https://code.earthengine.google.com/d472d85f373ad7520803a47aea3f79ea?noload=true)
+    - [ Map the function over a year's  data  taking the median,](https://code.earthengine.google.com/d472d85f373ad7520803a47aea3f79ea?noload=true)
 
 4. Compute the indices
 
-    - Normalized Difference Water Index (NDWI)
-     (G - NIR) / (G + NIR), Band 3 (Green) and Band 8 (NIR)
-    - Normalized Difference Built-up Index (NDBI)
-    (SWIR – NIR) / (SWIR + NIR), Band 8 (NIR) and Band 12 (SWIR)
-    - Enhanced Vegetation Index (EVI)
-    2.5 * ((NIR-RED) / (NIR +6 * RED -7.5* BLUE+1)), Band 8 (NIR), Band 4 (Red), Band 2 (Blue).
+    - Normalized Difference Water Index (NDWI)<br>
+     (G - NIR) / (G + NIR), Band 3 (Green) and Band 8 (NIR)<br>
+    - Normalized Difference Built-up Index (NDBI)<br>
+    (SWIR – NIR) / (SWIR + NIR), Band 8 (NIR) and Band 12 (SWIR)<br>
+    - Enhanced Vegetation Index (EVI)<br>
+    2.5 * ((NIR-RED) / (NIR +6 * RED -7.5* BLUE+1)), Band 8 (NIR), Band 4 (Red), Band 2 (Blue).<br>
 
 5. Add indices to map visualize them with or without color palettes.
 
