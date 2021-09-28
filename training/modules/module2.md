@@ -49,10 +49,7 @@ You can find the presentation in the below repository ;
 | 2  |Training_AOI         | vector      | polygon |
 
 ###   :pushpin: Download dataset
-Please complete the [Exercise](https://github.com/ernest19/SNV/blob/main/training/datasets/module2/datasets.zip).
-
-
-
+Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main/training/datasets/module2/datasets.zip).
 
 
 
