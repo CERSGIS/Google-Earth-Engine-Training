@@ -58,7 +58,7 @@ Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main
 
 
 
-## 3. Exercises 
+## 4. Exercises 
 - Please complete the [Exercise 1 ](https://github.com/ernest19/SNV/blob/main/training/exercises/module3_exercise1.md).
 - Please complete the [Exercise 2 ](https://github.com/ernest19/SNV/blob/main/training/exercises/module3_exercise2.md).
 
@@ -66,6 +66,6 @@ Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main
 
 
 
-## 4. Additional Resources
+## 5. Additional Resources
 - [The Code Editor guide ](https://developers.google.com/earth-engine/tutorials/playground) to get familiar with the Code Editor environment.
 
