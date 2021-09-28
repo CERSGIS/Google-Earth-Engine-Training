@@ -53,3 +53,7 @@ This exercise covers:
 
 
 
+###   :pushpin: Submit Exercise 2 <br>
+
+ Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-3-exercises.md&title=Module+3+exercises2+%5Breplace+with+your+name%5D)
+

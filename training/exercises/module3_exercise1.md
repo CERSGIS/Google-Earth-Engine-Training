@@ -77,5 +77,10 @@ This exercise covers:
 </table>
 
 
+###   :pushpin: Submit Exercise 1 <br>
+
+ Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-3-exercises.md&title=Module+3+exercises1+%5Breplace+with+your+name%5D)
+
+
 
 
