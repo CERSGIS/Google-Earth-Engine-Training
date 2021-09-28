@@ -41,17 +41,11 @@ You can find the presentation in the below repository ;
 
 
 
-## 3. Datasets / Script 
-
+## 3. Datasets 
 | ID | File Name           | Data Format | Type    | 
 |----|---------------------|-------------|---------|
 | 1  |Gh_District_Boundary | vector      | polygon | 
 | 2  |Gh_Regional_Boundary | vector      | polygon |  
-
-
-### 3. Link to Courses script  
-    - [Global Forest Change](https://code.earthengine.google.com/c9de1fe385e233dd061be9998c289dc3).
-    - [Spectral Indices](https://code.earthengine.google.com/0a82390c4dcc0f581bd0fbd9573057ef ).
 
 
 
@@ -59,16 +53,22 @@ You can find the presentation in the below repository ;
 Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main/training/datasets/module3/module3.zip).
 
 
+## 4. Link to Courses Script  
+- [Global Forest Change](https://code.earthengine.google.com/c9de1fe385e233dd061be9998c289dc3).
+- [Spectral Indices](https://code.earthengine.google.com/0a82390c4dcc0f581bd0fbd9573057ef ).
 
 
-## 4. Exercises 
+
+
+
+## 5. Exercises 
 - Please complete the [Exercise 1 ](https://github.com/ernest19/SNV/blob/main/training/exercises/module3_exercise1.md).
 - Please complete the [Exercise 2 ](https://github.com/ernest19/SNV/blob/main/training/exercises/module3_exercise2.md).
 
 
 
 
-## 5. Additional Resources
+## 6. Additional Resources
 
 - [Produt details](https://lcluc.umd.edu/metadata/global-forest-change) on the Hansen et al. Global Forest Change Data
 - [App](https://glad.earthengine.app/view/global-forest-change#dl=1;old=off;bl=off;lon=20;lat=10;zoom=3;) for viewing global forest change
