@@ -53,7 +53,7 @@ You can find the presentation in the below repository ;
 Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main/training/datasets/module3/module3.zip).
 
 
-## 4. Link to Courses Script  
+## 4. Links to Courses Script  
 - [Global Forest Change](https://code.earthengine.google.com/c9de1fe385e233dd061be9998c289dc3).
 - [Spectral Indices](https://code.earthengine.google.com/0a82390c4dcc0f581bd0fbd9573057ef ).
 
