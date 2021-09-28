@@ -68,4 +68,6 @@ Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main
 
 ## 5. Additional Resources
 - [The Code Editor guide ](https://developers.google.com/earth-engine/tutorials/playground) to get familiar with the Code Editor environment.
+- [Publication ](https://www.sciencedirect.com/science/article/pii/S0034425717302900) to get familiar with the Code Editor environment.
+
 
