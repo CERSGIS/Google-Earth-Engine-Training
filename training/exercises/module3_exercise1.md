@@ -61,17 +61,17 @@ This exercise covers:
 
 <table style="border: 0;">  
   <tr> 
-    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise11.png.png" width="400">Natural color composite</td>
+    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise11.png" width="400"><br> Natural color composite</td>
 
-  <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise12.png" width="400">NDWI Output
+  <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise12.png" width="400"><br> NDWI Output
   </td>
   </tr>
 
    <tr> 
-    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise13.png.png" width="400">NDBI Output
+    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise13.png" width="400"><br> NDBI Output
 </td>
 
-  <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise14.png" width="400">EVI Output
+  <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise14.png" width="400"><br>  EVI Output 
   </td>
   </tr>
 </table>
