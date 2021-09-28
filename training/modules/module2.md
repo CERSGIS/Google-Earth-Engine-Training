@@ -30,8 +30,6 @@ This course will introduce you to Image/ Image Collection and Feature and Featur
 You can find the presentation in the below repository ;
 
 1. [Data Exploration](https://github.com/ernest19/SNV/blob/main/training/presentations/day2/Data_Exploration_Day_2_updated.pptx)
-2. [Global Forest Change](https://github.com/ernest19/SNV/blob/main/training/presentations/day2/Global_Forest_Change_Day_2.pptx)
-3. [Spectral Indices](https://github.com/ernest19/SNV/blob/main/training/presentations/day2/Spectral_Indices_Day_2.pptx)
 
 
 
@@ -42,14 +40,14 @@ You can find the presentation in the below repository ;
 |----|---------------------|-------------|---------|
 | 1  |District_AOI    	   | vector      | polygon | 
 | 2  |Gh_District_Boundary | vector      | polygon | 
-| 2  |Gh_Regional_Boundary | vector      | polygon |  
-| 2  |Protected_Areas      | vector      | polygon | 
-| 2  |SNV_FC1              | vector      | point   | 
-| 2  |SNV_FC2              | vector      | point   | 
-| 2  |Training_AOI         | vector      | polygon |
+| 3  |Gh_Regional_Boundary | vector      | polygon |  
+| 4  |Protected_Areas      | vector      | polygon | 
+| 5  |SNV_FC1              | vector      | point   | 
+| 6  |SNV_FC2              | vector      | point   | 
+| 7  |Training_AOI         | vector      | polygon |
 
 ###   :pushpin: Download dataset
-Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main/training/datasets/module2/datasets.zip).
+Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main/training/datasets/module2/module2.zip).
 
 
 
@@ -66,6 +64,4 @@ Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main
 
 
 - [The Code Editor guide ](https://developers.google.com/earth-engine/tutorials/playground) to get familiar with the Code Editor environment.
-- For more thorough JavaScript tutorials, see [these Mozilla developer resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript). 
-- For an introduction to programming, with examples in JavaScript, see [Eloquent JavaScript](http://eloquentjavascript.net/). 
 - For suggestions on JavaScript coding style, see the [Google JavaScript Style Guide](http://google.github.io/styleguide/javascriptguide.xml).
