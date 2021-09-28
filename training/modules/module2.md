@@ -36,12 +36,32 @@ You can find the presentation in the below repository ;
 
 
 
+## 3. Datasets
+
+| ID | File Name           | Data Format | Type    | 
+|----|---------------------|-------------|---------|
+| 1  |District_AOI    	   | vector      | polygon | 
+| 2  |Gh_District_Boundary | vector      | polygon | 
+| 2  |Gh_Regional_Boundary | vector      | polygon |  
+| 2  |Protected_Areas      | vector      | polygon | 
+| 2  |SNV_FC1              | vector      | point   | 
+| 2  |SNV_FC2              | vector      | point   | 
+| 2  |Training_AOI         | vector      | polygon |
+
+###   :pushpin: Download dataset
+Please complete the [Exercise](https://github.com/ernest19/SNV/blob/main/training/datasets/module2/datasets.zip).
+
+
+
+
+
+
+
+
+
 
 ## 3. Exercises 
 - Please complete the [Exercise](https://github.com/ernest19/SNV/blob/main/training/exercises/module2_exercise.md).
-
-
-
 
 
 
