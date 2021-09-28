@@ -57,7 +57,6 @@ Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main
 
 
 
-
 ## 4. Exercises 
 - Please complete the [Exercise 1 ](https://github.com/ernest19/SNV/blob/main/training/exercises/module3_exercise1.md).
 - Please complete the [Exercise 2 ](https://github.com/ernest19/SNV/blob/main/training/exercises/module3_exercise2.md).
@@ -65,9 +64,9 @@ Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main
 
 
 
-
 ## 5. Additional Resources
-- [The Code Editor guide ](https://developers.google.com/earth-engine/tutorials/playground) to get familiar with the Code Editor environment.
-- [Publication ](https://www.sciencedirect.com/science/article/pii/S0034425717302900) to get familiar with the Code Editor environment.
 
+- [Produt details](https://lcluc.umd.edu/metadata/global-forest-change) on the Hansen et al. Global Forest Change Data
+- [App](https://glad.earthengine.app/view/global-forest-change#dl=1;old=off;bl=off;lon=20;lat=10;zoom=3;) for viewing global forest change
+- [Publication](https://www.science.org/doi/10.1126/science.1244693)Publication on the Hansen et al. Global Forest Change Data.
 

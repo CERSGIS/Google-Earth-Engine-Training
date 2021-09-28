@@ -32,7 +32,7 @@ This exercise covers:
 
 3. Map the function over one year (2019) of data and take the median, bounded to the point of interest and visualize the image in the natural color composite ( B4, B3, B2)
 
-    - [Function to mask clouds using the Sentinel-2 QA band.](https://code.earthengine.google.com/d472d85f373ad7520803a47aea3f79ea?noload=true)
+    - [ Map the function over a year's  data  taken the median,](https://code.earthengine.google.com/d472d85f373ad7520803a47aea3f79ea?noload=true)
 
 4. Compute the indices
 
