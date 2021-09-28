@@ -19,6 +19,14 @@ This exercise covers:
 2. Filter/ Query Protected Areas in Bono and Bono East Region
 3. Export the filtered Protected Areas as a shapefile
 
+###   :pushpin: Submit Exercise 1 <br>
+
+ Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-2-exercises.md&title=Module+2+exercises1+%5Breplace+with+your+name%5D)
+
+
+
+
+
 
 
 ## 4. Exercise 2
@@ -27,7 +35,13 @@ This exercise covers:
 
 #### Write a script to achieve the following ;
 
-3. Filter/ Query Bono Region
-4. Create an Image Collection for Landsat 7 for 2020 covering the Bono Region as the  area of interest
-5. Clip the Image Collection with the filtered  Regional Boundary(Bono)
-6. Export the Clipped Image to GeoTIFF
+2. Filter/ Query Bono Region
+3. Create an Image Collection for Landsat 7 for 2020 covering the Bono Region as the  area of interest
+4. Clip the Image Collection with the filtered  Regional Boundary(Bono)
+5. Export the Clipped Image to GeoTIFF
+
+
+###   :pushpin: Submit Exercise 2 <br>
+
+ Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-2-exercises.md&title=Module+2+exercises2+%5Breplace+with+your+name%5D)
+
