@@ -39,8 +39,8 @@ Global_Forest_Change_Day_2.pptx
 Spectral_Indices_Day_2.pptx
 
 
-## 3. Exercises 1
-- Please complete the [Exercise 1](https://github.com/ernest19/SNV/blob/main/training/exercises/module2_exercise.md).
+## 3. Exercises 
+- Please complete the [Exercise](https://github.com/ernest19/SNV/blob/main/training/exercises/module2_exercise.md).
 - Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-2-exercises.md&title=Module+2+exercises+%5Breplace+with+your+name%5D)
 
 
