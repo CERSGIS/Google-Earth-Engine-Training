@@ -34,9 +34,7 @@ You can find the presentation in the below repository ;
 3. [Spectral Indices](https://github.com/ernest19/SNV/blob/main/training/presentations/day2/Spectral_Indices_Day_2.pptx)
 
 
-Data_Exploration_Day_2_updated.pptx
-Global_Forest_Change_Day_2.pptx
-Spectral_Indices_Day_2.pptx
+
 
 
 ## 3. Exercises 
