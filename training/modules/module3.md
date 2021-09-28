@@ -41,13 +41,17 @@ You can find the presentation in the below repository ;
 
 
 
-## 3. Datasets
+## 3. Datasets / Script 
 
 | ID | File Name           | Data Format | Type    | 
 |----|---------------------|-------------|---------|
 | 1  |Gh_District_Boundary | vector      | polygon | 
 | 2  |Gh_Regional_Boundary | vector      | polygon |  
 
+
+### 3. Link to Courses script  
+    - [Global Forest Change](https://code.earthengine.google.com/c9de1fe385e233dd061be9998c289dc3).
+    - [Spectral Indices](https://code.earthengine.google.com/0a82390c4dcc0f581bd0fbd9573057ef ).
 
 
 
