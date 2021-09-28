@@ -39,7 +39,6 @@ You can find the presentation in the below repository ;
 
 ## 3. Exercises 
 - Please complete the [Exercise](https://github.com/ernest19/SNV/blob/main/training/exercises/module2_exercise.md).
-- Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-2-exercises.md&title=Module+2+exercises+%5Breplace+with+your+name%5D)
 
 
 
