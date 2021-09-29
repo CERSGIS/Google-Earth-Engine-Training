@@ -49,6 +49,7 @@ Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main
 
 ## 4. Links to Courses Script  
 - [Unsupervised Classification](https://code.earthengine.google.com/b303e3aa81516ef61043dff3ee550303).
+- [Supervised Classification](https://code.earthengine.google.com/ad81607083e512a2486b717289882fa7).
 
 
 
