@@ -41,6 +41,12 @@ You can find the presentation in the below repository ;
 - [Interactive NDVI Time Series App ](https://code.earthengine.google.com/9aa206008de7a8d9fb7dd06fa56d876d).
 - [Event examples](https://code.earthengine.google.com/0d740d7aa55672edad9e7e10e1028a96).
 
+- [SplitPanel](https://code.earthengine.google.com/b05903e3effb171888873190746b10cb?noload=true).
+
+- [Modis NDVI time series animation](https://code.earthengine.google.com/0d740d7aa55672edad9e7e10e1028a96).
+
+
+
 
 
 
